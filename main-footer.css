@@ -1,0 +1,30 @@
+.main-footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 25px;
+    
+}
+
+.main-footer .logo{
+    margin-bottom: 10px;
+}
+
+.main-footer .title{
+    font-size: 25px;
+   
+}
+
+* {
+    margin: 0;
+    padding: 0%;
+
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 25px
+}
+a:hover{
+color: red;
+}
